@@ -1,0 +1,1 @@
+Artifacts for this lecture is in my GitHub Repo: https://github.com/saha-rajdeep/kubernetescode
